@@ -1,0 +1,32 @@
+{
+  "name": "Primer_Polymer",
+  "description": "Aprendiendo a usar Polymer",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "polymer",
+    "diw",
+    "bower",
+    "psk"
+  ],
+  "authors": [
+    "Jaime Rabasco Ronda"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.4",
+    "iron-elements": "PolymerElements/iron-elements#^1.0.8",
+    "google-map": "GoogleWebComponents/google-map#^1.1.10"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
